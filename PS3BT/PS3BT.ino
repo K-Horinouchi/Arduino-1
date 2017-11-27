@@ -56,7 +56,7 @@ void loop() {
       Serial.println("L2");
     }
     if(PS3.getButtonPress(R1)){
-      Serial.println("←");
+      Serial.println("R1");
     }
     if(PS3.getButtonPress(R2)){
       Serial.println("R2");
