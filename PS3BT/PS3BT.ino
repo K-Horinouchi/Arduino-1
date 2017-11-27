@@ -1,7 +1,6 @@
 //おかしなところがあったら教えてください。
 #include <PS3BT.h>
 #include <usbhub.h>
-#include <Servo.h>
 #ifdef dobogusinclude
 #include <spi4teensy3.h>
 #endif
